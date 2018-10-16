@@ -8,9 +8,11 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "tailwindcss": "^0.6.6",
     "vue": "^2.5.17",
-    "vue-router": "latest"
+    "vue-router": "latest",
+    "vuex": "^3.0.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.5",
